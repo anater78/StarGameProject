@@ -30,5 +30,7 @@ public class StarGame extends ApplicationAdapter {
 	public void dispose () {
 		batch.dispose();
 		img.dispose();
+
+
 	}
 }
